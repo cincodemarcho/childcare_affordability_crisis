@@ -2,7 +2,7 @@
 
 **How much of a family's income does childcare really take, and is it getting worse?** Using the U.S. Department of Labor's National Database of Childcare Prices, this project analyzes county-level childcare costs from 2008 to 2018 and makes the case that employers and state legislators should treat childcare support as workforce infrastructure. The story is told through three mediums, each built for a different audience: a presentation, an infographic, and an interactive Tableau dashboard.
 
-📊 [Presentation (PDF)](childcare_presentation.pdf) · 🖼️ [Infographic (PDF)](childcare_infographic.pdf) · 📈 [Interactive dashboard (Tableau Public)](https://public.tableau.com/app/profile/leo.luera/viz/DSC640TermProjectMilestone5dashboard-Luera/Dashboard) · 📄 [Design paper (PDF)](childcare_design_paper.pdf) · 📓 [Analysis notebook](childcare_analysis.ipynb)
+📊 [Presentation](childcare_presentation.pdf) · 🖼️ [Infographic](childcare_infographic.pdf) · 📈 [Interactive dashboard (Tableau Public)](https://public.tableau.com/app/profile/leo.luera/viz/DSC640TermProjectMilestone5dashboard-Luera/Dashboard) · 📄 [Paper](childcare_design_paper.pdf) · 📓 [Notebook](childcare_analysis.ipynb)
 
 ---
 
